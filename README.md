@@ -1,1 +1,1 @@
-# UsageES6-Fetch-Promise
+# Exchange Rates API usage with ES6-Fetch-Promise
